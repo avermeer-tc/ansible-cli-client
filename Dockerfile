@@ -1,1 +1,1 @@
-FROM tomasnorre/ansible-cli-client:latest
+FROM funzoneq/ansible-cli-client:latest
